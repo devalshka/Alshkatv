@@ -2,10 +2,10 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-https://example.com/480p/index.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/67392.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
-https://example.com/720p/index.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/67742.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
-https://example.com/1080p/index.m3u8
+http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/138135.m3u8
